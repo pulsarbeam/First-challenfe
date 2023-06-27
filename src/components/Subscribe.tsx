@@ -45,7 +45,7 @@ const Subscribe = () => {
         <div className="bg-white  rounded-3xl shadow-xl max-w-[55rem] lg:flex md:flex sm:grid grid-cols-2">
           <img
             src={signUp}
-            alt="Sign up"
+            alt="image"
             className=" lg:pr-6 md:pr-6 w-96  my-10 order-last"
           />
           <div className="lg:py-28 md:py-24 sm:py-22 sm:px-4 mx-10">
