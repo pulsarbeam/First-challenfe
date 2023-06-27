@@ -48,7 +48,7 @@ const Subscribe = () => {
             alt="Sign up"
             className=" lg:pr-6 md:pr-6 w-96  my-10 order-last"
           />
-          <div className="lg:py-28 sm:px-4 mx-10">
+          <div className="lg:py-28 md:py-24 sm:py-22 sm:px-4 mx-10">
             <div className="flex flex-col gap-5 ">
               <h1 className="font-bold text-5xl text-[#232742]">
                 Stay updated!
