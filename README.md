@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/pulsarbeam/First-challenfe)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/pulsarbeam/First-challenfe)
+- Live Site URL: [Live site (Vercel)](https://first-challenfe.vercel.app/)
 
 ## My process
 
